@@ -1,1 +1,3 @@
-random input asflkjhlsdjfasf
+
+def function():
+    return 'hello'
