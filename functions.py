@@ -1,2 +1,4 @@
-def function1():
-    return 0
+
+def function():
+    return 'hello'
+
