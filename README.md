@@ -21,16 +21,16 @@ Nabil Abbas, Warren Tai, Rami Avni
 
 
 ## Our Results and Insights
-![Movie Ratings vs. Ratio](movie_rating_vs_f_rep.png)
+![Movie Ratings vs. Ratio](movie_rating_vs_f_rep.png)   
 The scatter plot above is plotting the female cast ratio per film for a sample size of 704 movies.  Unfortunately the industry is still working on representation so there just isn't an even landscape of high female cast ratio vs high male cast ratio to come up with a meaningful conclusion.  But looking at the plot you can see that a majority of the films are condensed in the bottom left corner indicating higher male cast ratios.
 
-![Profitability vs. Ratio](Profitability_vs_f_rep.png)
+![Profitability vs. Ratio](Profitability_vs_f_rep.png)  
 The findings regarding profitability are similar to that of movie popularity.  There isn't enough data about higher female casts ratio per film to come up with a meaningful analysis. The data is inconclusive.
 
-![Actor Appearances in Top Movies](num_top_apperances.png)
+![Actor Appearances in Top Movies](num_top_apperances.png)  
 As we see from the graph above, the number of appearances in highly rated movies (we restrict to those movies with vote count greater than 100) is dominated by males, which is an interesting result echoing previous analysis of movies output based on gender.
 
-![Genre Popularity Review](best_genres.png)
+![Genre Popularity Review](best_genres.png)  
 Above is a graph of movies genre ordered by vote average (descending from left to right). This shows that vote average for the Drama genre is way higher than that of Comedy or Western. So in order to produce a highly rated movie, it should most likely be in the Drama genre.
 
 ## Going Forward and Future Analysis
